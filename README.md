@@ -23,6 +23,6 @@ Teams make a single random determination and then run the same color on both pat
 The intent is that teams do not signal directly to the ROBOT which option has been
 chosen. Placement of the ROBOT is not considered signaling."
 
-!()[]
+![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/PathA%20Galactic.PNG?raw=true)
 
-!()[]
+![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/PathB%20Galactic.PNG?raw=true)
