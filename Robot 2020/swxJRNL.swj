@@ -1,0 +1,45 @@
+' ******************************************************************************
+' swxJRNL.swj - journal recorded on 01/09/21 by Paolo
+' *****************************************************************************
+Dim swApp As Object
+
+Dim Part As Object
+Dim boolstatus As Boolean
+Dim longstatus As Long, longwarnings As Long
+
+Sub main()
+
+Set swApp = Application.SldWorks
+
+Dim myModelView As Object
+
+' New Document
+Dim swSheetWidth As Double
+swSheetWidth = 0
+Dim swSheetHeight As Double
+swSheetHeight = 0
+Set Part = swApp.NewDocument("C:\ProgramData\SolidWorks\SOLIDWORKS 2019\templates\Ensamblaje.asmdot", 0, swSheetWidth, swSheetHeight)
+Dim swAssembly As AssemblyDoc
+Set swAssembly = Part
+swApp.ActivateDoc2 "Ensamblaje1", False, longstatus
+Set Part = swApp.ActiveDoc
+
+' Take Snapshot
+Dim swSnapShot As SnapShot
+Set swSnapShot = Part.ModelViewManager.AddSnapShot("Inicio")
+Set myModelView = Part.ActiveView
+myModelView.FrameState = swWindowState_e.swWindowMaximized
+Set myModelView = Part.ActiveView
+myModelView.FrameState = swWindowState_e.swWindowMaximized
+
+' Open
+Set Part = swApp.OpenDoc6("C:\Users\Paolo y sus Amigos\Desktop\FRC 2021\Robot 2020\Chasis 2020.SLDASM", 2, 0, "", longstatus, longwarnings)
+Set swAssembly = Part
+' MSGBOX
+' No se puede abrir C:\Users\Paolo y sus Amigos\Desktop\FRC 2021\Robot 2020\Chasis 2020.SLDASM.
+' Versión futura
+
+Set myModelView = Part.ActiveView
+myModelView.FrameState = swWindowState_e.swWindowMaximized
+swApp.ExitApp
+End Sub
