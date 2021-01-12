@@ -87,3 +87,42 @@ To accomplish this challenge we only need a good driver and the robot should wor
 ![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/Bounce%20Path.PNG?raw=true)
 
 ![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/LightSpeed.PNG?raw=true)
+
+---
+
+# **Interstellar Accuracy Challenge**
+
+*In the Interstellar Accuracy Challenge teams emulate the shooting challenges of INFINITE RECHARGE
+gameplay by scoring POWER CELLS into a representation of the BOTTOM PORT, OUTER PORT, AND
+INNER PORT from four (4) zones. Teams will attempt to score as many points as possible in five (5)
+minutes.*
+
+**Important Rules**
+
+1. Teams may not attempt more than fifteen (15) POWER CELL shots.
+1. Teams must attempt at least three (3) POWER CELLS per zone. The remaining three (3)
+POWER CELLS may be shot from any of the four (4) zones.
+1. The ROBOT may not be preloaded with more than three (3) POWER CELLS such that they are
+fully and solely supported by the ROBOT.
+1. No more than two (2) people may feed POWER CELLS to the ROBOT.
+1. The ROBOT must be completely within the Reintroduction Zone in order to acquire POWER
+CELLS from humans.
+
+**Scoring**
+
+- BOTTOM PORT = 1 Point
+- OUTER PORT = 2 Points
+- INNER PORT = 3 Points
+
+---
+# What do we need to accomplish this?
+
+A fast indexer, a fast way for human players to introduce balls, a very accurate shooter and an adjustable angle to be able to shoot from all different 4 spots.
+
+---
+# Indexer Design
+**Requirements:**
+
+1. It must use only 1 motor.
+1. It should be able to keep 3 balls.
+1. It shoul be open for human players to introduce balls as quick as possible. 
