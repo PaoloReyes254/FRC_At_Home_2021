@@ -66,8 +66,24 @@ through three (3) different paths as fast as possible."*
 
 For this challenge we only need a fast chassis with some encoder feedback, so we must be fine with our actual robot.
 
-![]()
+![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/Barrel%20Racing%20Path.PNG?raw=true)
 
-![]()
+![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/Slalom%20Path.PNG?raw=true)
+
+![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/Bounce%20Path.PNG?raw=true)
+
+---
+# **Hyperdrive Challenge**
+
+*In the Hyperdrive Challenge teams drive their ROBOTS remotely, without the assistance of preprogrammed navigation, through four (4) different paths as fast as possible. The first three (3) paths are
+the same as those described in AutoNav Challenge, the fourth path is the Lightspeed Circuit path.*
+
+To accomplish this challenge we only need a good driver and the robot should work as it is designed now.
+
+![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/Barrel%20Racing%20Path.PNG?raw=true)
+
+![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/Slalom%20Path.PNG?raw=true)
+
+![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/Bounce%20Path.PNG?raw=true)
 
 ![]()
