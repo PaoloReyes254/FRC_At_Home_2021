@@ -1,4 +1,4 @@
-# WINT 3794 FRC AT HOME 0$ ROBOT IDEA
+# **WINT 3794 FRC AT HOME 0$ ROBOT IDEA**
 
 The initial idea is to create a competitive robot that can accomplish all FIRST at home challenges with a 0 dollars budget.
 
@@ -11,17 +11,17 @@ The chasis consist of 6 NEO motors (3 per side) chain driven with 2 REV throughB
 Now let's approach how to improve this robot to accomplish all First At Home tasks.
 
 ---
-# Galactic Search Challenge
+# **Galactic Search Challenge**
 
-"In the Galactic Search challenge, teams emulate the Autonomous Period of INFINITE RECHARGE
-gameplay by locating and collecting POWER CELLS as fast as they can on one of two (2) pairs of paths."
+*"In the Galactic Search challenge, teams emulate the Autonomous Period of INFINITE RECHARGE
+gameplay by locating and collecting POWER CELLS as fast as they can on one of two (2) pairs of paths."*
 
-IMPORTANT RULES
+**IMPORTANT RULES**
 
-"GSC2. Teams must randomly determine (e.g. coin, die, phone app, etc.) if they run the red or blue paths.
+*"GSC2. Teams must randomly determine (e.g. coin, die, phone app, etc.) if they run the red or blue paths.
 Teams make a single random determination and then run the same color on both paths.
 The intent is that teams do not signal directly to the ROBOT which option has been
-chosen. Placement of the ROBOT is not considered signaling."
+chosen. Placement of the ROBOT is not considered signaling."*
 
 ![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/PathA%20Galactic.PNG?raw=true)
 
@@ -57,3 +57,17 @@ You will understand better with the following images:
 Finally I will add a camera on top of the intake to determine which path we will go to play.
 
 ![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/Camera.JPG?raw=true)
+
+---
+# **AutoNav Challenge**
+
+*"In the AutoNav Challenge teams program their ROBOTS to autonomously drive predetermined routes
+through three (3) different paths as fast as possible."*
+
+For this challenge we only need a fast chassis with some encoder feedback, so we must be fine with our actual robot.
+
+![]()
+
+![]()
+
+![]()
