@@ -46,3 +46,10 @@ For that reason I got this intake design:
 
 This intake is made out of MDF, it has a PVC roller and 16 2.25 inches compliant wheels on top, it is driven through chain and a 775 motor with a 10:1 gearbox.
 With this simple robot we should be able to complete challenge #1 and the only thing that is missing is how to deploy the intake without any motor or pneumatic system.
+
+To solve the **how to deploy the intake** problem I used 2 servos to lock the intake and then those servos will be moved to let the intake fall by gravity and elastic rubber bands.
+You will understand better with the following images:
+
+![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/Intake%20Seguros.JPG?raw=true)
+
+![]()
