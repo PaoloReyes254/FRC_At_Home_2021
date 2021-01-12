@@ -52,4 +52,4 @@ You will understand better with the following images:
 
 ![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/Intake%20Seguros.JPG?raw=true)
 
-![]()
+![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/IntakeAnimation.gif?raw=true)
