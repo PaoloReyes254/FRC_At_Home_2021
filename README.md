@@ -38,7 +38,7 @@ I think the best way to approach this is by keeping a low profile robot, use the
 To design the intake I consider two main things.
 
 1. The intake needs two rollers to overcome the bumper and move the ball with enough X direction force inside the robot.
-1. Needs to be as simple as possible
+1. Needs to be as simple as possible.
 
 For that reason I got this intake design:
 
