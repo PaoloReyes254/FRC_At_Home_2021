@@ -53,3 +53,7 @@ You will understand better with the following images:
 ![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/Intake%20Seguros.JPG?raw=true)
 
 ![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/IntakeFRC.gif?raw=true)
+
+Finally I will add a camera on top of the intake to determine which path we will go to play.
+
+![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/Camera.JPG?raw=true)
