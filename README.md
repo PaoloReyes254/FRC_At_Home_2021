@@ -136,3 +136,7 @@ The first part of the indexer consist of a conveyor belt in the floor to transpo
 The conveyor belt will be built with **Home Depot** Non-slip tape.
 
 ![](https://cdn.homedepot.com.mx/productos/723546/723546-z.jpg)
+
+Then the second part of the indexer consist of side conveyors to center the ball at the end.
+
+![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/Indexer.JPG?raw=true)
