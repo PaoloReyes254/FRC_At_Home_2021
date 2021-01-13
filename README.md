@@ -114,7 +114,7 @@ CELLS from humans.
 - OUTER PORT = 2 Points
 - INNER PORT = 3 Points
 
-![]()
+![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/Field.PNG?raw=true)
 
 ---
 # What do we need to accomplish this?
@@ -131,4 +131,8 @@ A fast indexer, a fast way for human players to introduce balls, a very accurate
 
 The first part of the indexer consist of a conveyor belt in the floor to transport balls.
 
-![]()
+![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/Caminadora.JPG?raw=true)
+
+The conveyor belt will be built with **Home Depot** Non-slip tape.
+
+![](https://cdn.homedepot.com.mx/productos/723546/723546-z.jpg)
