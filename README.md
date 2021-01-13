@@ -114,6 +114,8 @@ CELLS from humans.
 - OUTER PORT = 2 Points
 - INNER PORT = 3 Points
 
+![]()
+
 ---
 # What do we need to accomplish this?
 
@@ -126,3 +128,7 @@ A fast indexer, a fast way for human players to introduce balls, a very accurate
 1. It must use only 1 motor.
 1. It should be able to keep 3 balls.
 1. It shoul be open for human players to introduce balls as quick as possible. 
+
+The first part of the indexer consist of a conveyor belt in the floor to transport balls.
+
+![]()
