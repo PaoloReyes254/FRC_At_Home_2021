@@ -140,3 +140,7 @@ The conveyor belt will be built with **Home Depot** Non-slip tape.
 Then the second part of the indexer consist of side conveyors to center the ball at the end.
 
 ![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/Indexer.JPG?raw=true)
+
+Finally I will add the motor and the needed gears to make it run.
+
+![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/Motorized.JPG?raw=true)
