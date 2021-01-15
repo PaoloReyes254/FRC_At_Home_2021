@@ -160,8 +160,8 @@ The shooter consist of a 4 inches compliant wheel roller at the bottom to transp
 
 Finally I added the limelight and a logo of the team.
 
-![]()
+![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/Lime.JPG?raw=true)
 
-![]()
+![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/Limelight.gif?raw=true)
 
-![]()
+![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/WinTLogo.JPG?raw=true)
