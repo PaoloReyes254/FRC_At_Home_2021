@@ -165,3 +165,38 @@ Finally I added the limelight and a logo of the team.
 ![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/Limelight.gif?raw=true)
 
 ![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/WinTLogo.JPG?raw=true)
+
+---
+# **POWER PORT Challenge**
+
+*In the POWER PORT Challenge teams emulate the teleoperated portion of INFINITE RECHARGE
+gameplay by collecting POWER CELLS and scoring them into a representation of the POWER PORT.
+Teams attempt to score as many points as possible in the POWER PORT in one minute.*
+
+**Important Rules**
+
+1. Teams may not use more than three (3) POWER CELLS.
+1. The ROBOT must start completely within the challenge space.
+1. The ROBOT may be preloaded with up to three (3) POWER CELLS
+1. The ROBOT may only attempt a shot if its BUMPERS are fully contained within the Scoring Zone
+which extends 17 ft. 6 in (~533 cm) from the face of the POWER PORT representation.
+1. No more than two (2) people may feed POWER CELLS to the ROBOT.
+1. POWER CELLS may be introduced directly to the ROBOT or onto the floor.
+POWER CELLS which land in the challenge space may be fielded directly by the ROBOT
+anywhere in the challenge space; they do not need to be reintroduced by a human or into
+the Reintroduction Zone.
+Use of a LOADING BAY (or LOADING BAY mockup) is recommended to minimize risk of
+human injury by a POWER CELL receiving ROBOT.
+The intent of this allowance is to avoid forcing humans to field POWER CELLS in close
+proximity to the ROBOT. Teams should not use this allowance to attempt to create a
+"loop" with minimal ROBOT movement.
+
+**Scoring**
+
+- BOTTOM PORT = 1 Point
+- OUTER PORT = 2 Points
+- INNER PORT = 3 Points
+
+![]()
+
+With the actual robot we should be able to accomplish this challenge, so there are no more modifications.
