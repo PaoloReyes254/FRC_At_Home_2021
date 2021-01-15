@@ -197,6 +197,6 @@ proximity to the ROBOT. Teams should not use this allowance to attempt to create
 - OUTER PORT = 2 Points
 - INNER PORT = 3 Points
 
-![]()
+![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/PowerPortChallenge.PNG?raw=true)
 
 With the actual robot we should be able to accomplish this challenge, so there are no more modifications.
