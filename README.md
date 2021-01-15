@@ -156,4 +156,4 @@ Finally I will add the motor and the needed gears to make it run.
 
 The shooter consist of a 4 inches compliant wheel roller at the bottom to transport balls from indexer toward flywheel, the flywheel has 4 775pro 1:1 geared motors with an external 2:1 reduction that we can change if we need, then we have 4 inches colson wheels to shoot the balls at a teorethical speed of 9000rpm and finally an adjustable shooting angle driven by 2 servos.
 
-![]()
+![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/Completedv1.JPG?raw=true)
