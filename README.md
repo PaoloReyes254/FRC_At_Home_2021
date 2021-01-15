@@ -144,3 +144,16 @@ Then the second part of the indexer consist of side conveyors to center the ball
 Finally I will add the motor and the needed gears to make it run.
 
 ![](https://github.com/PaoloReyes254/FRC_At_Home_2021/blob/master/Images/Motorized.JPG?raw=true)
+
+---
+
+# Shooter Design
+**Requirements:**
+
+1. It must use 4 motors.
+1. It should be able to shoot in the opposite direction of the intake.
+1. It should have an adjustable angle. 
+
+The shooter consist of a 4 inches compliant wheel roller at the bottom to transport balls from indexer toward flywheel, the flywheel has 4 775pro 1:1 geared motors with an external 2:1 reduction that we can change if we need, then we have 4 inches colson wheels to shoot the balls at a teorethical speed of 9000rpm and finally an adjustable shooting angle driven by 2 servos.
+
+![]()
